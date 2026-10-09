@@ -144,6 +144,14 @@ Lorsque ces conditions sont réunies, la fixation du loyer est libre : le baille
 
 La dérogation ne s'étend pas aux autres règles de la loi. Pour les relocations suivantes, l'article 18 retrouve à s'appliquer. Le texte doit être interprété strictement, comme toute exception à un dispositif d'ordre public.
 
+### Article 19
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2014-03-27 par LOI n° 2014-366 du 24 mars 2014 - art. 6)
+
+L'article 19 se situait au chapitre III du titre Ier, entre les règles de fixation et de réévaluation du loyer (articles 17 à 18-1) et les dispositions relatives à la commission départementale de conciliation (article 20). La version consolidée n'en conserve que le numéro : selon la source, il est abrogé à compter du 27 mars 2014 par l'article 6 de la loi n° 2014-366 du 24 mars 2014. Son texte antérieur n'est pas reproduit par la source et le présent commentaire ne le reconstitue pas. L'article est mentionné pour que la numérotation du chapitre soit complète ; les renvois à l'article 19 qui subsisteraient dans d'autres textes ou dans des listes d'exclusion (ainsi la mention des articles 16 à 19 dans les dispositions ultramarines de l'article 44) doivent être lus comme des références historiques, sans contenu normatif actuel.
+
 ### Article 20
 
 **Texte de la disposition:**
@@ -443,6 +451,14 @@ L'article 24-1 organise l'action en justice par l'intermédiaire d'associations,
 Pour les litiges relatifs à la décence au sens des deux premiers alinéas de l'article 6, le cercle des mandataires est élargi aux associations dont l'objet est l'insertion ou le logement des personnes défavorisées et aux associations de défense des personnes en situation d'exclusion par le logement mentionnées à l'article 3 de la loi n° 90-449 du 31 mai 1990. Ces associations peuvent aussi assister ou représenter un locataire en matière de décence selon les modalités de l'article 828 du code de procédure civile. La collectivité compétente en matière d'habitat et les organismes payeurs des aides au logement peuvent également être destinataires du mandat.
 
 Le second alinéa étend ce dispositif aux occupants des locaux visés aux 1° à 3° de l'article 2 (logements-foyers, meublés, logements de fonction et saisonniers) lorsque le litige porte sur la décence. Cette extension est cohérente avec l'article 2, qui rend l'article 24-1 applicable aux logements de fonction et aux locations saisonnières, et avec l'article 20-1, qui organise l'action en mise en conformité. Pour l'application de la loi en Nouvelle-Calédonie, l'article 45 adapte le premier alinéa de l'article 24-1, en substituant notamment à la Commission nationale de concertation la commission mentionnée à l'article 20 et en supprimant la référence à l'article 828 du code de procédure civile.
+
+### Article 24-2
+
+**Texte de la disposition:**
+
+> (Abrogé à compter du 2018-11-25 par LOI n°2018-1021 du 23 novembre 2018 - art. 154)
+
+L'article 24-2, inséré après l'article 24-1 dans le chapitre III du titre Ier, n'a plus de rédaction en vigueur : la source indique qu'il est abrogé à compter du 25 novembre 2018 par l'article 154 de la loi n° 2018-1021 du 23 novembre 2018. La numérotation à tiret révèle une insertion postérieure à 1989, mais la version consolidée ne reproduit pas le contenu de la disposition, que le commentaire ne restitue donc pas. Le régime de la résiliation et de la prévention des expulsions repose désormais, dans la loi, sur les articles 24 et 24-1, qui demeurent en vigueur et sont commentés à leur place.
 
 ### Article 25
 

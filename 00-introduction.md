@@ -1,6 +1,6 @@
 # Commentaire de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs
 
-> **À propos du commentaire :** le présent commentaire porte sur la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986, examinée article par article — **77 articles** dans leur rédaction consolidée en vigueur, y compris les articles insérés par des lois postérieures (numérotation à tirets, par exemple 3-1 ou 25-12). Pour chaque article figurent le texte intégral de la disposition et un commentaire.
+> **À propos du commentaire :** le présent commentaire porte sur la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986, examinée article par article — **93 articles** : les 77 articles en vigueur dans leur rédaction consolidée, y compris les articles insérés par des lois postérieures (numérotation à tirets, par exemple 3-1 ou 25-12). Pour chaque article figurent le texte intégral de la disposition et un commentaire.
 
 ## Données de base
 
@@ -12,7 +12,7 @@
 
 ## Structure de la loi et du commentaire
 
-La loi comprend, dans sa rédaction actuelle, quatre titres. Le **titre Ier** (« Des rapports entre bailleurs et locataires ») régit le bail de locaux nus constituant la résidence principale du preneur ; il est divisé en trois chapitres : dispositions générales (art. 1 à 9-2), durée du contrat de location (art. 10 à 15), loyer, charges et règlement des litiges (art. 16 à 25-2). Le **titre Ier bis** (art. 25-3 à 25-11) est consacré aux logements meublés constituant la résidence principale, le **titre Ier ter** (art. 25-12 à 25-18) au bail mobilité, et le **titre II** (art. 37 à 47) contient des dispositions diverses, transitoires et relatives à l'outre-mer.
+La loi comprend, dans sa rédaction actuelle, quatre titres. Le **titre Ier** (« Des rapports entre bailleurs et locataires ») régit le bail de locaux nus constituant la résidence principale du preneur ; il est divisé en trois chapitres : dispositions générales (art. 1 à 9-2), durée du contrat de location (art. 10 à 15), loyer, charges et règlement des litiges (art. 16 à 25-2). Le **titre Ier bis** (art. 25-3 à 25-11) est consacré aux logements meublés constituant la résidence principale, le **titre Ier ter** (art. 25-12 à 25-18) au bail mobilité, et le **titre II** (art. 26 à 47) contient des dispositions diverses : articles modificatifs de lois antérieures (art. 26 à 36, 38, 39 et 42), dispositions transitoires et dispositions relatives à l'outre-mer.
 
 Le commentaire est réparti en trois chapitres :
 
@@ -20,7 +20,7 @@ Le commentaire est réparti en trois chapitres :
 2. Titre Ier, chapitre III — loyer, charges et règlement des litiges (art. 16 à 25-2) ;
 3. Titres Ier bis, Ier ter et II — logements meublés, bail mobilité et dispositions diverses (art. 25-3 à 47).
 
-Les articles qui ne figurent plus dans la version consolidée de la source (lacunes de la numérotation, par exemple articles 19, 26 à 36, 38, 39 et 42) ne sont pas commentés ; les éléments abrogés à l'intérieur d'un article en vigueur (par exemple le 7° de l'article 3) sont reproduits tels qu'ils apparaissent dans la source.
+Les articles qui n'ont plus de rédaction en vigueur sont reproduits tels que la source les présente, afin que la numérotation soit complète : les articles abrogés (19 et 24-2) figurent avec la mention de la date et du texte d'abrogation, et les articles purement modificatifs du titre II (26 à 36, 38, 39 et 42), dépourvus de période de vigueur dans la base LEGI, avec la mention « a modifié les dispositions suivantes » et la liste des dispositions modifiées ou créées. Les mentions entre parenthèses qui suivent ces références — « (V) », « (M) », « (Ab) » — indiquent, selon les conventions de la base LEGI, l'état actuel de la disposition visée (en vigueur, modifiée depuis, abrogée). Ces articles font l'objet d'un commentaire bref ; les éléments abrogés à l'intérieur d'un article en vigueur (par exemple le 7° de l'article 3) sont reproduits tels qu'ils apparaissent dans la source.
 
 ## Méthode
 

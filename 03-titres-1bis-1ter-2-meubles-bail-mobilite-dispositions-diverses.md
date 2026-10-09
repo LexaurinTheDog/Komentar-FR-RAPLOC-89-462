@@ -316,6 +316,114 @@ Le montant du forfait est fixé en fonction des charges exigibles en application
 
 #### Titre II — Dispositions diverses
 
+### Article 26
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Modifie : Loi n°86-1290 du 23 décembre 1986 - art. 25 (M)
+
+L'article 26 est un article purement modificatif. Selon la source, il « a modifié les dispositions suivantes », à savoir l'article 25 de la loi n° 86-1290 du 23 décembre 1986, c'est-à-dire la loi dont le titre même de la loi de 1989 annonce la modification. Une fois la modification incorporée au texte modifié, l'article n'a plus de contenu normatif propre : la base LEGI ne lui attribue d'ailleurs aucune période de vigueur et ne conserve que la mention de l'opération réalisée. La mention « (M) » placée après la référence signale, selon les conventions de la base, que l'article visé a depuis lors été lui-même modifié ; pour connaître le droit applicable, il faut donc se reporter à la version en vigueur de la loi de 1986.
+
+### Article 27
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Modifie : Loi n°86-1290 du 23 décembre 1986 - art. 29 (V)
+
+Comme l'article 26, l'article 27 est un article de modification de la loi n° 86-1290 du 23 décembre 1986 : il a modifié l'article 29 de cette loi. Il ne contient aucune règle autonome applicable aux rapports locatifs régis par la présente loi ; son effet s'est épuisé dans l'insertion de la nouvelle rédaction dans le texte modifié. La mention « (V) » indique que l'article 29 de la loi de 1986 figure dans la base comme étant en vigueur. Le titre II de la loi de 1989 regroupe ainsi, sous l'intitulé « Dispositions diverses », une série d'articles de coordination avec la législation antérieure.
+
+### Article 28
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Modifie : Loi n°86-1290 du 23 décembre 1986 - art. 31 (V)
+
+L'article 28 appartient à la même série d'articles de coordination que les articles 26 et 27 : la source indique qu'il a modifié l'article 31 de la loi n° 86-1290 du 23 décembre 1986, dont l'état est signalé par la mention « (V) ». Dans la version consolidée, il n'a pas de texte propre ni de période de vigueur. Sa présence rappelle que la loi de 1989 ne s'est pas bornée à poser un nouveau statut du bail d'habitation (titre Ier), mais qu'elle a aussi retouché, par voie de modification, les dispositions de la loi de 1986 qui demeuraient applicables.
+
+### Article 29
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Modifie : Loi n°86-1290 du 23 décembre 1986 - art. 33 (V)
+
+L'article 29 a modifié, selon la source, l'article 33 de la loi n° 86-1290 du 23 décembre 1986 (mention « (V) »). Comme les autres articles modificatifs du titre II, il n'a pas de contenu propre dans la version consolidée et ne régit directement aucun rapport entre bailleur et locataire. Le lecteur qui recherche le droit applicable à la matière concernée doit consulter la loi de 1986 dans sa rédaction en vigueur ; la loi de 1989 n'en conserve que la trace de l'opération de modification.
+
+### Article 30
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+
+L'article 30 figure dans la source avec la seule mention « a modifié les dispositions suivantes », sans indication de la disposition modifiée. Il s'agit d'un article modificatif du titre II, dépourvu de période de vigueur propre dans la base LEGI. Faute de précision dans la source, le commentaire ne peut identifier le texte qu'il a modifié et se borne à constater que l'article n'a pas de contenu normatif autonome dans la version consolidée de la loi.
+
+### Article 31
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Crée : Loi n°86-1290 du 23 décembre 1986 - art. 41 bis (M)
+
+L'article 31 a, selon la source, créé l'article 41 bis de la loi n° 86-1290 du 23 décembre 1986 ; la mention « (M) » signale que cet article a depuis été modifié. À la différence des articles 26 à 29, l'opération ne consiste pas à modifier une disposition existante mais à en insérer une nouvelle dans la loi de 1986. Le résultat de l'opération appartient désormais à la loi modifiée, et l'article 31 ne conserve dans la loi de 1989 qu'une fonction de traçabilité.
+
+### Article 32
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Crée : Loi n°86-1290 du 23 décembre 1986 - art. 41 ter (M)
+
+L'article 32 a créé, selon la source, l'article 41 ter de la loi n° 86-1290 du 23 décembre 1986 (mention « (M) », signalant des modifications ultérieures). Il forme avec l'article 31 un ensemble d'insertions successives dans la loi de 1986. Comme tout article de création, il n'a plus de contenu propre une fois l'article nouveau intégré au texte visé ; la règle applicable doit être recherchée dans la rédaction en vigueur de l'article 41 ter de la loi de 1986.
+
+### Article 33
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Modifie : Loi n°86-1290 du 23 décembre 1986 - art. 42 (M)
+
+L'article 33 a modifié, selon la source, l'article 42 de la loi n° 86-1290 du 23 décembre 1986 ; la mention « (M) » indique que cet article a été modifié depuis. L'article 34 vise la même disposition, ce qui montre que la loi de 1989 a procédé par retouches successives et distinctes d'un même article de la loi de 1986. Dans la version consolidée de la loi de 1989, l'article 33 n'a plus de contenu normatif propre.
+
+### Article 34
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Modifie : Loi n°86-1290 du 23 décembre 1986 - art. 42 (M)
+
+L'article 34 porte, comme l'article 33, sur l'article 42 de la loi n° 86-1290 du 23 décembre 1986, qu'il a modifié selon la source (mention « (M) »). Le législateur a ainsi consacré deux articles distincts à des modifications d'une même disposition de la loi de 1986. L'article n'a pas de période de vigueur dans la base LEGI et ne régit par lui-même aucune situation.
+
+### Article 35
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Modifie : Loi n°86-1290 du 23 décembre 1986 - art. 44 (M)
+
+L'article 35 a modifié, selon la source, l'article 44 de la loi n° 86-1290 du 23 décembre 1986 (mention « (M) »). Il s'inscrit dans la série des articles 26 à 36, qui constituent la partie modificative du titre II de la loi de 1989. Sa présence dans la version consolidée est purement documentaire : la règle résultant de la modification appartient à la loi de 1986.
+
+### Article 36
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Crée : Loi n°86-1290 du 23 décembre 1986 - art. 57 A (V)
+
+L'article 36 a créé, selon la source, l'article 57 A de la loi n° 86-1290 du 23 décembre 1986 ; la mention « (V) » indique que cet article figure dans la base comme étant en vigueur. Il clôt la série des articles modificatifs consacrés à la loi de 1986 avant l'article 37, qui comporte à nouveau un texte propre (abrogation de l'article 57 de la loi de 1986 et règle transitoire relative aux autorisations d'usage professionnel). Comme les articles qui le précèdent, il n'a pas de contenu normatif propre dans la version consolidée.
+
 ### Article 37
 
 **Texte de la disposition:**
@@ -329,6 +437,46 @@ L'article 37 est une disposition de coordination et de droit transitoire relativ
 Le second alinéa règle le sort des personnes qui bénéficiaient de l'article abrogé : elles sont réputées, à la date de publication de la loi, titulaires à titre personnel, pour le local en cause, d'une autorisation d'usage professionnel. Ce maintien des droits acquis est subordonné à une condition de forme : une déclaration à la préfecture du lieu du local dans un délai de trois mois à compter de la même date. L'autorisation est personnelle, ce qui signifie qu'elle est attachée au bénéficiaire et non au local ; elle ne se transmet donc pas à un successeur dans les lieux.
 
 La disposition présente aujourd'hui un intérêt essentiellement historique, le délai de déclaration étant expiré depuis longtemps. Elle conserve une utilité pour apprécier la régularité de l'usage professionnel de locaux dont l'occupation remonte à cette période. Elle doit être distinguée de l'article 2, qui inclut dans le champ du titre Ier les locaux à usage mixte professionnel et d'habitation constituant la résidence principale du preneur : l'article 37 concerne l'autorisation administrative d'usage, non le régime contractuel du bail.
+
+### Article 38
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Modifie : Loi n°48-1360 du 1 septembre 1948 - art. 27 (V)
+>
+> Modifie : Loi n°48-1360 du 1 septembre 1948 - art. 38 (V)
+
+L'article 38 a modifié, selon la source, deux articles de la loi n° 48-1360 du 1er septembre 1948, à savoir les articles 27 et 38, tous deux signalés comme en vigueur (mention « (V) »). À la différence des articles 26 à 36, qui visaient la loi de 1986, il concerne donc la législation antérieure applicable aux locaux soumis à la loi de 1948, dont la loi de 1989 a coordonné certaines règles avec le nouveau statut du bail. Dans la version consolidée, l'article n'a plus de texte propre ni de période de vigueur ; les règles résultant de la modification figurent dans la loi de 1948.
+
+### Article 39
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Modifie : Loi n°86-1290 du 23 décembre 1986 - art. 28 (M)
+>
+> Modifie : Loi n°86-1290 du 23 décembre 1986 - art. 34 (V)
+>
+> Modifie : Loi n°86-1290 du 23 décembre 1986 - art. 43 (V)
+>
+> Modifie : Loi n°86-1290 du 23 décembre 1986 - art. 46 (V)
+>
+> Abroge : Loi n°86-1290 du 23 décembre 1986 - art. 47 (Ab)
+>
+> Abroge : Loi n°86-1290 du 23 décembre 1986 - art. 48 (Ab)
+>
+> Abroge : Loi n°86-1290 du 23 décembre 1986 - art. 49 (Ab)
+>
+> Abroge : Loi n°86-1290 du 23 décembre 1986 - art. 50 (Ab)
+>
+> Modifie : Loi n°86-1290 du 23 décembre 1986 - art. 54 (V)
+
+L'article 39 est l'article modificatif le plus étendu du titre II. Selon la source, il a modifié les articles 28, 34, 43, 46 et 54 de la loi n° 86-1290 du 23 décembre 1986 et en a abrogé les articles 47 à 50. Les mentions entre parenthèses renseignent sur l'état actuel des dispositions visées dans la base LEGI : l'article 28 a été modifié depuis (« (M) »), les articles 34, 43, 46 et 54 sont signalés comme en vigueur (« (V) »), et les articles 47 à 50 comme abrogés (« (Ab) »), ce qui correspond à l'opération d'abrogation réalisée par le présent article.
+
+L'article illustre la double fonction du titre II : coordonner la loi de 1986 avec le nouveau régime du bail d'habitation instauré par le titre Ier, et supprimer les dispositions devenues incompatibles avec lui. Une fois ces opérations accomplies, l'article 39 n'a plus de contenu normatif autonome ; la base LEGI ne lui attribue pas de période de vigueur, et le droit applicable doit être recherché dans la loi de 1986 telle qu'elle est actuellement rédigée.
 
 ### Article 40
 
@@ -397,6 +545,16 @@ Le législateur qualifie expressément la disposition d'interprétative et d'ord
 > Les dispositions de l'article 20-1 sont applicables aux contrats en cours.
 
 L'article 41-1 est une disposition d'application dans le temps : il rend l'article 20-1, relatif à l'action du locataire en mise en conformité d'un logement non décent, applicable aux contrats en cours. Par dérogation au principe de survie de la loi ancienne en matière contractuelle, le locataire titulaire d'un bail conclu avant l'entrée en vigueur de l'article 20-1 peut donc s'en prévaloir et obtenir du juge l'exécution de travaux, la réduction ou la suspension du loyer. Cette solution traduit le caractère d'ordre public de l'obligation de décence prévue à l'article 6.
+
+### Article 42
+
+**Texte de la disposition:**
+
+> a modifié les dispositions suivantes
+>
+> Modifie : Loi n°86-1290 du 23 décembre 1986 - art. 73 (M)
+
+L'article 42 a modifié, selon la source, l'article 73 de la loi n° 86-1290 du 23 décembre 1986, signalé comme modifié depuis (« (M) »). Il s'intercale entre l'article 41-1, disposition autonome de la loi de 1989, et l'article 43, consacré aux conditions d'application de la loi à Mayotte. Comme les articles 26 à 39 de même nature, il ne conserve dans la version consolidée que la trace de l'opération de modification et n'a pas de période de vigueur propre.
 
 ### Article 43
 

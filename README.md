@@ -1,6 +1,6 @@
 # Commentaire de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs
 
-Commentaire d'un texte de droit français : **loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986** (JORF du 8 juillet 1989). Il couvre **77 articles** répartis en **3 chapitres de commentaire** ; pour chaque article sont reproduits le texte intégral de la disposition et un commentaire.
+Commentaire d'un texte de droit français : **loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986** (JORF du 8 juillet 1989). Il couvre **93 articles** (77 articles en vigueur et 16 articles abrogés ou purement modificatifs, reproduits pour que la numérotation soit complète) répartis en **3 chapitres de commentaire** ; pour chaque article sont reproduits le texte intégral de la disposition et un commentaire.
 
 État du texte : version consolidée **en vigueur au 2 octobre 2026** (base LEGI de la DILA, dernière modification enregistrée le 28 novembre 2025).
 
