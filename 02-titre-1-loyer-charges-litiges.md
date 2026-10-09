@@ -458,7 +458,7 @@ Le second alinéa étend ce dispositif aux occupants des locaux visés aux 1° �
 
 > (Abrogé à compter du 2018-11-25 par LOI n°2018-1021 du 23 novembre 2018 - art. 154)
 
-L'article 24-2, inséré après l'article 24-1 dans le chapitre III du titre Ier, n'a plus de rédaction en vigueur : la source indique qu'il est abrogé à compter du 25 novembre 2018 par l'article 154 de la loi n° 2018-1021 du 23 novembre 2018. La numérotation à tiret révèle une insertion postérieure à 1989, mais la version consolidée ne reproduit pas le contenu de la disposition, que le commentaire ne restitue donc pas. Le régime de la résiliation et de la prévention des expulsions repose désormais, dans la loi, sur les articles 24 et 24-1, qui demeurent en vigueur et sont commentés à leur place.
+L'article 24-2, inséré après l'article 24-1 dans le chapitre III du titre Ier, n'a plus de rédaction en vigueur : la source indique qu'il est abrogé à compter du 25 novembre 2018 par l'article 154 de la loi n° 2018-1021 du 23 novembre 2018. La numérotation à tiret révèle une insertion postérieure à 1989, mais la version consolidée ne reproduit pas le contenu de la disposition, que le commentaire ne restitue donc pas. Les articles qui l'encadrent, l'article 24 (clause de résiliation de plein droit) et l'article 24-1 (mandat d'agir donné à une association en cas de litige locatif), demeurent en vigueur et sont commentés à leur place.
 
 ### Article 25
 
