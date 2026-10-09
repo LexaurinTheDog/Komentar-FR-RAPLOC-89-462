@@ -1,6 +1,6 @@
 # Commentaire de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs
 
-> **À propos du commentaire :** le présent commentaire porte sur la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986, examinée article par article — **93 articles** : les 77 articles en vigueur dans leur rédaction consolidée, y compris les articles insérés par des lois postérieures (numérotation à tirets, par exemple 3-1 ou 25-12). Pour chaque article figurent le texte intégral de la disposition et un commentaire.
+> **À propos du commentaire :** le présent commentaire porte sur la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986, examinée article par article — **93 articles** : les 77 articles en vigueur dans leur rédaction consolidée, y compris les articles insérés par des lois postérieures (numérotation à tirets, par exemple 3-1 ou 25-12), ainsi que 16 articles abrogés ou purement modificatifs, reproduits pour que la numérotation soit complète. Pour chaque article figurent le texte intégral de la disposition et un commentaire.
 
 ## Données de base
 
